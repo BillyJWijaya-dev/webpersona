@@ -2,10 +2,10 @@
   /* ===== CONFIG: ganti isi blok ini dengan data sirkelmu ===== */
   const CONFIG = {
     name: 'Solidarity',
-    music: 'assets/music/backsound.mp3', /* taruh file musikmu di sini; kalau tidak ada, dipakai musik sintetis */
+    music: 'assets/music/music1.mp3',
     tagline: 'TRUE EVOKERS FACE THE DREAD UPFRONT; COWARDS ONLY WHISPER FROM BEHIND.',
-    since: 2024,
-    meetups: 12,
+    since: 2026,
+    meetups: 47,
     members: [
       { name: 'Zen Auladi', photo: 'assets/images/Zen.jpeg', arc: 'The Hierophat', rn: 'V', role: 'Pencetus Ide', rank: 9, quote: 'Bukan orang bener, tapi beneran orang.', hobby: 'Fotografi' },
       { name: 'Billy', photo: 'assets/images/billy.jpeg', arc: 'The Justice', rn: 'VIII', role: 'A wolf in sheeps clothing', rank: 8, quote: 'Bisikan dari belakang cuma membuktikan bahwa kami di depan.', hobby: 'Baca buku, Game, Musik, dan Ngopi' },
